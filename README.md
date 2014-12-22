@@ -68,6 +68,6 @@ Configuring the <code>TWITTER_KEY</code> and <code>TWITTER_SECRET</code> environ
 <pre><span class="nv">$ </span>heroku config:add <span class="nv">TWITTER_KEY</span><span class="o">=</span>&lt;your_twitter_consumer_key&gt; <span class="nv">TWITTER_SECRET</span><span class="o">=</span>&lt;your_twitter_consumer_secret&gt;
 </pre>
 </div>
-After that, you should be able to deploy! :)
+After that, you should be able to deploy! :):)
 
 Get to it. Create a new Heroku application. Add Heroku as a git remote. Run <code>heroku config:add</code> to set up the Twitter key and secret. Push to Heroku.
